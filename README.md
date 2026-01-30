@@ -1,6 +1,8 @@
 # -SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS
+```
 ##Developed By: Rougith D
 ##Register Number: 25017014
+```
 ## Aim:
 To write a python program to find a solution to a system of linear equations.
 ## Equipment’s required:
